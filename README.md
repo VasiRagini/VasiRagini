@@ -106,3 +106,16 @@ const vasiRagini = {
 
 ---
 
+---
+
+<div align="center">
+
+✨ **Thanks for visiting my profile!** ✨
+
+💡 Always Learning • Building • Growing
+
+🚀 Exploring AI, MCP, Automation & Modern Web Technologies
+
+⭐ If you like my work, feel free to connect and follow!
+
+</div>
