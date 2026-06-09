@@ -77,6 +77,8 @@ const vasiRagini = {
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=VasiRagini&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+
 ## 💡 Philosophy
 
 > Learn. Build. Share. Repeat.
