@@ -80,6 +80,15 @@ const vasiRagini = {
 ![Profile Views](https://komarev.com/ghpvc/?username=VasiRagini&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
 ---
+<h2>📊 GitHub Activity</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=VasiRagini&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VasiRagini&theme=tokyo-night" alt="Contribution Graph" />
+</p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=VasiRagini&theme=dark)](https://git.io/streak-stats)
 
