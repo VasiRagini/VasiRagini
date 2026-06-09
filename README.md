@@ -81,9 +81,7 @@ const vasiRagini = {
 
 ---
 
-## 🔥 GitHub Streak
-
-![](https://streak-stats.demolab.com?user=VasiRagini&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=VasiRagini&theme=dark)](https://git.io/streak-stats)
 
 ---
 
