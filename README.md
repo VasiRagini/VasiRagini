@@ -24,3 +24,13 @@ const vasiRagini = {
   philosophy: "Learn. Build. Share. Repeat.",
   funFact: I build apps faster than I finish my assignments
 };
+
+---
+
+## ⚡ Currently Exploring
+
+- 🤖 AI Agents
+- 🔗 Model Context Protocol (MCP)
+- 🧠 Prompt Engineering
+- ⚙️ AI Automations
+- 🚀 Building AI-Powered Applications
