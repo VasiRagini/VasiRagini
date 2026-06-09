@@ -80,18 +80,20 @@ const vasiRagini = {
 ![Profile Views](https://komarev.com/ghpvc/?username=VasiRagini&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
 ---
-<h2>📊 GitHub Activity</h2>
+## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=VasiRagini&theme=tokyonight" alt="GitHub Streak" />
-</p>
+### 📈 Contribution Graph
+[![Vasi Ragini's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VasiRagini&theme=github-dark)](https://github.com/VasiRagini)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VasiRagini&theme=tokyo-night" alt="Contribution Graph" />
-</p>
+<br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=VasiRagini&theme=dark)](https://git.io/streak-stats)
+### 🔥 GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=VasiRagini&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
+<br>
+
+### 🐍 Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/VasiRagini/VasiRagini/output/github-contribution-grid-snake.svg)
 ---
 
 ## 💡 Philosophy
