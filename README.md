@@ -79,6 +79,14 @@ const vasiRagini = {
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VasiRagini&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
+---
+
+## 🔥 GitHub Streak
+
+![](https://streak-stats.demolab.com?user=VasiRagini&theme=tokyonight)
+
+---
+
 ## 💡 Philosophy
 
 > Learn. Build. Share. Repeat.
