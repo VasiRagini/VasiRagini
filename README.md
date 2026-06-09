@@ -64,7 +64,7 @@ const vasiRagini = {
 
 ## 📊 GitHub Stats
 
-![Vasi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VasiRagini&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VasiRagini&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VasiRagini&layout=compact&theme=tokyonight)
 
