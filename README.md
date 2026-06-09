@@ -78,9 +78,17 @@ const vasiRagini = {
 
 
 ---
+---
 
-💭 Philosophy
+## 💡 Philosophy
 
-«"Learn. Build. Share. Repeat."»
+> Learn. Build. Share. Repeat.
 
 ⚡ Turning ideas into impactful digital experiences.
+
+🚀 Passionate about exploring emerging technologies and applying them to solve real-world problems.
+
+🌱 Always learning, experimenting, and building.
+
+---
+
