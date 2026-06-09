@@ -22,9 +22,9 @@ const vasiRagini = {
   interests: ["AI", "Automation", "MCP", "Web Development"],
   currentlyBuilding: "Projects that make life easier",
   philosophy: "Learn. Build. Share. Repeat.",
-  funFact: I build apps faster than I finish my assignments
+  funFact: "I build apps faster than I finish my assignments"
 };
-
+```
 ---
 
 ## ⚡ Currently Exploring
