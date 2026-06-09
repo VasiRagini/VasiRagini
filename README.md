@@ -69,14 +69,6 @@ const vasiRagini = {
 - Real-World Problem Solving
 ---
 
-🎯 Focus Areas
-
-- Artificial Intelligence
-- Agentic AI & MCP
-- Frontend Development
-- Automation Systems
-- Open Source Learning
-
 ---
 ## 🤝 Connect With Me
 
