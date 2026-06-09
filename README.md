@@ -76,8 +76,9 @@ const vasiRagini = {
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VasiRagini)
 
 ---
+### 👀 Profile Visitors
 
-![Profile Views](https://komarev.com/ghpvc/?username=VasiRagini&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=VasiRagini&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 ## 📊 GitHub Activity
