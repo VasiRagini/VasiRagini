@@ -34,3 +34,27 @@ const vasiRagini = {
 - 🧠 Prompt Engineering
 - ⚙️ AI Automations
 - 🚀 Building AI-Powered Applications
+
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Tailwind CSS
+
+### AI & Automation
+- MCP (Model Context Protocol)
+- AI Agents
+- Prompt Engineering
+- AI APIs
+
+### Programming & Tools
+- Python
+- Git
+- GitHub
+- VS Code
