@@ -67,3 +67,37 @@ const vasiRagini = {
 ![Vasi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VasiRagini&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VasiRagini&layout=compact&theme=tokyonight)
+
+---
+
+🔥 What I Build
+
+- 🚀 AI-Powered Applications
+- 🤖 Intelligent Agents & Automations
+- 🌐 Modern Web Experiences
+- 💡 Real-World Solutions Through Technology
+
+---
+
+🎯 Focus Areas
+
+- Artificial Intelligence
+- Agentic AI & MCP
+- Frontend Development
+- Automation Systems
+- Open Source Learning
+
+---
+
+🤝 Connect With Me
+
+""LinkedIn" (https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" (YOUR_LINKEDIN_URL)
+""GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/VasiRagini)
+
+---
+
+💭 Philosophy
+
+«"Learn. Build. Share. Repeat."»
+
+⚡ Turning ideas into impactful digital experiences.
