@@ -1,29 +1,26 @@
-
 <h1 align="center">Hi 👋, I'm Vasi Ragini</h1>
-<h3 align="center">CSE (AI & ML) Student | Frontend Developer | Building at the edge of UI and AI 🚀</h3>
+<h3 align="center">Building What I Wish Existed — with Code, AI, and Curiosity 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&center=true&vCenter=true&width=600&lines=Frontend+Developer;AI+%26+ML+Student;Building+AI-Powered+Apps;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Developer;AI+Builder;Exploring+MCP+%26+AI+Agents;Turning+Ideas+Into+Products;Learn.+Build.+Share.+Repeat." />
 </p>
 
 ---
 
 ## 🙋‍♀️ About Me
 
-- 🎓 CSE (AI & ML) Student at SVCE Tirupati
-- 💻 Passionate about Frontend Development and AI Integration
-- 🌱 Currently learning React, Tailwind CSS and AI APIs
-- 🔨 Building tools that solve real student problems
-- ⚡ Fun fact: I build apps faster than I finish my assignments 😄
-
----
+- 🚀 Building projects that solve real-world problems
+- 🤖 Exploring AI, Automation, MCP, and Intelligent Systems
+- 💻 Crafting modern web experiences with React and Tailwind CSS
+- 🎨 Passionate about clean design and intuitive user experiences
+- 🌱 Always learning, experimenting, and shipping new ideas
+- 💡 Believer in learning by building
 
 ```javascript
 const vasiRagini = {
-  role: "Frontend Developer",
-  education: "CSE (AI & ML)",
-  skills: ["React", "JavaScript", "Tailwind CSS", "Python"],
-  learning: ["AI APIs", "MCP", "AI Agents"],
-  goal: "Build impactful AI-powered products"
+  title: "Frontend Developer & AI Builder",
+  interests: ["AI", "Automation", "MCP", "Web Development"],
+  currentlyBuilding: "Projects that make life easier",
+  philosophy: "Learn. Build. Share. Repeat.",
+  funFact: I build apps faster than I finish my assignments
 };
-```
