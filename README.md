@@ -61,3 +61,9 @@ const vasiRagini = {
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=VasiRagini&theme=tokyonight&no-frame=true&margin-w=10)
+
+## 📊 GitHub Stats
+
+![Vasi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VasiRagini&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VasiRagini&layout=compact&theme=tokyonight)
