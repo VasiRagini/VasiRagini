@@ -41,20 +41,18 @@ const vasiRagini = {
 ## 🛠️ Tech Stack
 
 ### Frontend
-- HTML5
-- CSS3
-- JavaScript
-- React
-- Tailwind CSS
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-20232A?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+### Programming
+
+![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=3776AB)
 
 ### AI & Automation
-- MCP (Model Context Protocol)
-- AI Agents
-- Prompt Engineering
-- AI APIs
 
-### Programming & Tools
-- Python
-- Git
-- GitHub
-- VS Code
+![ChatGPT](https://img.shields.io/badge/ChatGPT-20232A?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-20232A?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-20232A?style=for-the-badge)
+![AI_Agents](https://img.shields.io/badge/AI_Agents-20232A?style=for-the-badge)
