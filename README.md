@@ -91,9 +91,6 @@ const vasiRagini = {
 [![GitHub Streak](https://streak-stats.demolab.com?user=VasiRagini&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <br>
-
-### 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/VasiRagini/VasiRagini/output/github-contribution-grid-snake.svg)
 ---
 
 ## 💡 Philosophy
