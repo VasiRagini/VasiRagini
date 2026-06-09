@@ -56,3 +56,9 @@ const vasiRagini = {
 ![Gemini](https://img.shields.io/badge/Gemini-20232A?style=for-the-badge)
 ![MCP](https://img.shields.io/badge/MCP-20232A?style=for-the-badge)
 ![AI_Agents](https://img.shields.io/badge/AI_Agents-20232A?style=for-the-badge)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VasiRagini&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VasiRagini&layout=compact&theme=tokyonight)
