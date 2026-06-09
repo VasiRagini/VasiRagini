@@ -59,13 +59,14 @@ const vasiRagini = {
 
 ---
 
-🔥 What I Build
+## 🎯 Professional Focus
 
-- 🚀 AI-Powered Applications
-- 🤖 Intelligent Agents & Automations
-- 🌐 Modern Web Experiences
-- 💡 Real-World Solutions Through Technology
-
+- Artificial Intelligence
+- Agentic AI & MCP
+- Frontend Development
+- Automation Systems
+- Open Source Technologies
+- Real-World Problem Solving
 ---
 
 🎯 Focus Areas
